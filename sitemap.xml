@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://example.com/archive.html</loc>
+  <lastmod>2022-01-04T18:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/blog/</loc>
+  <lastmod>2022-01-04T18:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/categories.html</loc>
+  <lastmod>2022-01-04T18:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/categories/</loc>
+  <lastmod>2022-01-04T18:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/galleries/</loc>
+  <lastmod>2022-01-04T18:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/home/</loc>
+  <lastmod>2022-01-04T18:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/home/index.src.html</loc>
+  <lastmod>2022-01-04T18:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/listings/</loc>
+  <lastmod>2022-01-04T18:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/research/</loc>
+  <lastmod>2022-01-04T18:49:00Z</lastmod>
+ </url>
+</urlset>
